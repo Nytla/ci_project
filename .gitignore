@@ -5,4 +5,6 @@
 */cache/!index.html
 */cache/!.htaccess
 
+#My closure files and folders
 */!git_commit.sh
+*/!user_guide
